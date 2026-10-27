@@ -1,9 +1,11 @@
 import java.util.*;
 public class FirstClass {
     public static void main(String[] args) {
-        // int a = 10;
-        // int b = 45;
-        // int sum = a + b;
+        int a = 10;
+        int b = 45;
+        int c = 20;
+        int d = 30;
+        int sum = a + b;
 
         // System.out.println(sum);
         // int diff = b - a;
@@ -58,6 +60,6 @@ public class FirstClass {
         else{
             System.out.println("e is lesser");
         }
-        sc.close():
+        sc.close();
     }
 }

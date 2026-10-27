@@ -37,15 +37,15 @@ public class FirstClass {
         // System.out.println("not adult");
         // sc.close();}
 
-        // Scanner sc = new Scanner(System.in);
-        // int number = sc.nextInt();
-        // if (number %2 == 0){
-        //     System.out.println("Even");
-        // }
-        // else{
-        //     System.out.println("Odd");
-        // }
-        // sc.close();
+        Scanner sc = new Scanner(System.in);
+        int number = sc.nextInt();
+        if (number %2 == 0){
+            System.out.println("Even");
+        }
+        else{
+            System.out.println("Odd");
+        }
+        sc.close();
         Scanner sc = new Scanner(System.in);
         int e =sc.nextInt();
         int f = sc.nextInt();
@@ -58,6 +58,6 @@ public class FirstClass {
         else{
             System.out.println("e is lesser");
         }
-        sc.close();
+        sc.close():
     }
 }

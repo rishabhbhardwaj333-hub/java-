@@ -1,6 +1,6 @@
-import java.util.*;
-public class FirstClass {
-    public static void main(String[] args) {
+// import java.util.*;
+// public class FirstClass {
+//     public static void main(String[] args) {
         // int a = 10;
         // int b = 45;
         // int c = 20;
@@ -84,16 +84,51 @@ public class FirstClass {
         // case 3: System.out.println("Bonjour");
         // break;
         // default: System.out.println("Invalid button");
-        Scanner sc = new Scanner(System.in);
+        // Scanner sc = new Scanner(System.in);
         // int button = sc.nextInt();
 
-        for (int counter =0;counter<11;counter++){
-            System.out.println(counter+" "); 
-            sc.close();
+        // for (int counter =0;counter<11;counter++){
+        //     System.out.println(counter+" "); 
+            // sc.close();
+        // int i =0;
+        // while(i<10){
+        //     System.out.println(i);
+        //     i=i+1;
 
-    }
-
+        // int i=0;
+        // do{
+        //     System.out.println(i);
+        //     i=i+1;
+        // }
+        //     while(i<10);
+        // int n=Sc.nextInt();
         
-    }
+        // Scanner sc = new Scanner(System.in);
+        // int n = sc.nextInt();
+        // int sum = 0;
+        // for (int i=1;i<=n;i++){
+        //     sum = sum + i;
+        // }
+        // System.out.println(sum);
 
-}
+
+        // Scanner sc = new Scanner(System.in);
+        // int n = sc.nextInt();
+        // for(int i=1;i<11;i++){
+        //     System.out.println(i*n);
+        // }
+        // sc.close();
+
+        // int n = 4;
+        // int m = 5;
+
+        // for(int i=1;i<=n;i++){
+        //     for(int j=1;j<=m;j++){
+        //         System.out.print("*");
+        //     }
+        //     System.out.println();
+        // }
+
+    // }
+
+// }
